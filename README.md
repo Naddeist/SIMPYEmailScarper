@@ -1,2 +1,2 @@
-# SIMPYEmailScarper
+# PythonEmailScarper
 Simple Python Email Scraper 
